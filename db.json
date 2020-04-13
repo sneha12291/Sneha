@@ -1,0 +1,148 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "pooja",
+      "email": "pooja@gmail.com",
+      "password": "poo123",
+      "userrole": "staff"
+    },
+    {
+      "id": 2,
+      "username": "vasavi",
+      "email": "vasavi@gmail.com",
+      "password": "vas123",
+      "userrole": "staff"
+    },
+    {
+      "id": 3,
+      "username": "sujan",
+      "email": "sujan@gmail.com",
+      "password": "suj123",
+      "userrole": "student"
+    },
+    {
+      "id": 4,
+      "username": "sangeeta",
+      "email": "sangeeta@gmail.com",
+      "password": "san123",
+      "userrole": "student"
+    },
+    {
+      "id": 5,
+      "username": "anvesh",
+      "email": "anvesh@gmail.com",
+      "password": "anv123",
+      "userrole": "staff"
+    },
+    {
+      "id": 6,
+      "username": "deepthi",
+      "email": "deepthi@gmail.com",
+      "password": "dee123",
+      "userrole": "student"
+    },
+    {
+      "username": "kaveri",
+      "email": "kaveri@gmail.com",
+      "password": "kav123",
+      "userrole": "staff",
+      "id": 7
+    },
+    {
+      "username": "laxmi",
+      "email": "laxmi@gmail.com",
+      "password": "lax123",
+      "userrole": "student",
+      "id": 8
+    }
+  ],
+  "schedule": [
+    {
+      "Period": "1",
+      "Subject": "English",
+      "Teacher": "Sandhya",
+      "Time": "09:00 - 10:00",
+      "Topics": "Chapter -1",
+      "Assignment": "Q&A",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Period": "2",
+      "Subject": "Telugu",
+      "Teacher": "Priya",
+      "Time": "10:00 - 11:00",
+      "Topics": "Chapter 1",
+      "Assignment": "test"
+    },
+    {
+      "Period": "3",
+      "Subject": "Maths",
+      "Teacher": "Kiran",
+      "Time": "11:00 - 12:00",
+      "Topics": "Exercise 1",
+      "Assignment": "no",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Period": "4",
+      "Subject": "Science",
+      "Teacher": "Venkat",
+      "Time": "01:00 - 02:00",
+      "Topics": "Chapter 1",
+      "Assignment": "Q&A"
+    },
+    {
+      "id": 5,
+      "Period": "5",
+      "Subject": "Gk",
+      "Teacher": "Priya",
+      "Time": "02:00 - 03:00",
+      "Topics": "Chapter 1",
+      "Assignment": "Quiz"
+    },
+    {
+      "Period": "6",
+      "Subject": "social",
+      "Teacher": "sairaj",
+      "Time": "03:00 - 04:00",
+      "Topics": "introduction",
+      "Assignment": "no",
+      "id": 6
+    }
+  ],
+  "studentdata": [
+    {
+      "id": 1,
+      "name": "Manasa",
+      "class": "Second class",
+      "emailid": "qwer@gmail.com",
+      "dateofbirth": "02-04-2012",
+      "parentname": "Ramu",
+      "phonenumber": "9876543212",
+      "address": "vidya nagar colony,KMR"
+    },
+    {
+      "id": 2,
+      "name": "Naresh",
+      "class": "Third class",
+      "emailid": "asdfg@gmail.com",
+      "dateofbirth": "07-06-2011",
+      "parentname": "Sanjay",
+      "phonenumber": "8776543212",
+      "address": "vidya nagar colony,KMR"
+    },
+    {
+      "id": 3,
+      "name": "Rakesh",
+      "class": "Third class",
+      "emailid": "zxcv@gmail.com",
+      "dateofbirth": "13-02-2011",
+      "parentname": "Raju",
+      "phonenumber": "6376543212",
+      "address": "vidya nagar colony,KMR"
+    }
+  ]
+}
